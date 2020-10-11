@@ -1,0 +1,9 @@
+**\target
+*.exe
+*.pdb
+
+# fk it dont want it clogging my commits rn
+Cargo.lock
+
+
+
